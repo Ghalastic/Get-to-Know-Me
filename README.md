@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ghala
 =============================================================================================================================
 
-A soon-to-be Electrical Engineer
+An Electrical Engineer
 --------------------------------
 
 I've been passionate about coding ever since I was in middle school and I'm very excited for the upcoming years in which i will spend learning about all the things i don't know yet about coding!
