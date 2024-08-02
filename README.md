@@ -7,7 +7,7 @@ An Electrical Engineer
 I've been passionate about coding ever since I was in middle school and I'm very excited for the upcoming years in which i will spend learning about all the things i don't know yet about coding!
 
 * 🌍  I'm based in Mekkah, Jeddah
-* ✉️  You can contact me at [ghalacute3@gmail.com](mailto:ghalacute3@gmail.com)
+* ✉️  You can contact me at [ghalacute3@gmail.com](mailto:ghalaalzahrani215@gmail.com)
 * 🧠  I'm learning HTML, CSS, JavaScript, and Arduino
 * 🤝  I'm open to collaborating on projects invloving robotics and machinery
 * ⚡  I used to hate the term engineering back in middle school and high school, don't tell anyone<3.
